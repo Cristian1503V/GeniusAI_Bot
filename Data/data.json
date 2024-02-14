@@ -1,0 +1,29 @@
+{
+    "MATRÍCULA DE UN APREDIZ SELECIONADO":{
+        "documentos_requeridos": ["Documento de identidad", "Fotocopia de título Bachiller", "Resultados ICFES", "(Si) es menor de edad Autorizacion de los padres de familia" ],
+        "fechas": "Lunes - Viernes",
+        "procedimiento": "Llenar formulario de matrícula en línea y realizar el pago correspondiente.",
+        "preguntas_frecuentes": [
+            {"pregunta": "¿Dónde puedo pagar la matrícula?", "respuesta": "El pago se realiza en la tesorería del SENA."},
+            {"pregunta": "¿Qué hacer si pierdo mi formulario?", "respuesta": "Puedes solicitar un nuevo formulario en la oficina de admisiones."}
+        ]
+    },
+    "SOLICITUD DE APOYO DE SOSTENIMIENTO":{
+        "documentos_requeridos": ["Informe académico", "Carta de motivación", "Carnet de aprendiz"],
+        "fechas": "Cada 6 meses",
+        "procedimiento": "Completar el formulario de solicitud de apoyo de sostenimiento y adjuntar los documentos necesarios.",
+        "preguntas_frecuentes": [
+            {"pregunta": "¿Cuáles son los criterios de selección para el apoyo de sostenimiento?", "respuesta": "Los criterios incluyen rendimiento académico y necesidad económica."},
+            {"pregunta": "¿Cuándo se anuncian los resultados de la selección para el apoyo de sostenimiento?", "respuesta": "Los resultados se publican el 15 de el mes que se hace la combocatoria."}
+        ]
+    },
+    "CAMBIO DE CARRERA":{
+        "documentos_requeridos": ["Solicitud de cambio", "Certificado de materias aprobadas", "Carnet de aprendiz"],
+        "fechas": "Lunes - Viernes",
+        "procedimiento": "Presentar la solicitud de cambio en la oficina de admisiones y seguir el proceso establecido.",
+        "preguntas_frecuentes": [
+            {"pregunta": "¿Cuánto tiempo tarda el proceso de cambio de carrera?", "respuesta": "El proceso suele tomar de 2 a 4 meses."},
+            {"pregunta": "¿Puedo cambiar de carrera después de la fecha límite?", "respuesta": "Se aceptan solicitudes tardías en casos excepcionales, sujeto a aprobación."}
+        ]
+    }
+}
