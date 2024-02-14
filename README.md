@@ -27,8 +27,6 @@ git clone https://github.com/Cristian1503V/GeniusAI_Bot.git
 
 ---
 
-Necesito que corrijas los errores ortográficos sin modificar el formato.
-
 ### Paso N3
 
 ##### 3.1
