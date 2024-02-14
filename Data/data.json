@@ -1,29 +1,168 @@
 {
-    "MATRÍCULA DE UN APREDIZ SELECIONADO":{
-        "documentos_requeridos": ["Documento de identidad", "Fotocopia de título Bachiller", "Resultados ICFES", "(Si) es menor de edad Autorizacion de los padres de familia" ],
+    "MATRÍCULA DE UN APREDIZ SELECIONADO": {
+        "documentos_requeridos": [
+            "Documento de identidad",
+            "Fotocopia de título Bachiller",
+            "Resultados ICFES",
+            "(Si) es menor de edad Autorizacion de los padres de familia"
+        ],
         "fechas": "Lunes - Viernes",
         "procedimiento": "Llenar formulario de matrícula en línea y realizar el pago correspondiente.",
         "preguntas_frecuentes": [
-            {"pregunta": "¿Dónde puedo pagar la matrícula?", "respuesta": "El pago se realiza en la tesorería del SENA."},
-            {"pregunta": "¿Qué hacer si pierdo mi formulario?", "respuesta": "Puedes solicitar un nuevo formulario en la oficina de admisiones."}
+            {
+                "pregunta": "¿Dónde puedo pagar la matrícula?",
+                "respuesta": "El pago se realiza en la tesorería del SENA."
+            },
+            {
+                "pregunta": "¿Qué hacer si pierdo mi formulario?",
+                "respuesta": "Puedes solicitar un nuevo formulario en la oficina de admisiones."
+            }
         ]
     },
-    "SOLICITUD DE APOYO DE SOSTENIMIENTO":{
-        "documentos_requeridos": ["Informe académico", "Carta de motivación", "Carnet de aprendiz"],
+    "SOLICITUD DE APOYO DE SOSTENIMIENTO": {
+        "documentos_requeridos": [
+            "Informe académico",
+            "Carta de motivación",
+            "Carnet de aprendiz"
+        ],
         "fechas": "Cada 6 meses",
         "procedimiento": "Completar el formulario de solicitud de apoyo de sostenimiento y adjuntar los documentos necesarios.",
         "preguntas_frecuentes": [
-            {"pregunta": "¿Cuáles son los criterios de selección para el apoyo de sostenimiento?", "respuesta": "Los criterios incluyen rendimiento académico y necesidad económica."},
-            {"pregunta": "¿Cuándo se anuncian los resultados de la selección para el apoyo de sostenimiento?", "respuesta": "Los resultados se publican el 15 de el mes que se hace la combocatoria."}
+            {
+                "pregunta": "¿Cuáles son los criterios de selección para el apoyo de sostenimiento?",
+                "respuesta": "Los criterios incluyen rendimiento académico y necesidad económica."
+            },
+            {
+                "pregunta": "¿Cuándo se anuncian los resultados de la selección para el apoyo de sostenimiento?",
+                "respuesta": "Los resultados se publican el 15 de el mes que se hace la combocatoria."
+            }
         ]
     },
-    "CAMBIO DE CARRERA":{
-        "documentos_requeridos": ["Solicitud de cambio", "Certificado de materias aprobadas", "Carnet de aprendiz"],
+    "CAMBIO DE CARRERA": {
+        "documentos_requeridos": [
+            "Solicitud de cambio",
+            "Certificado de materias aprobadas",
+            "Carnet de aprendiz"
+        ],
         "fechas": "Lunes - Viernes",
         "procedimiento": "Presentar la solicitud de cambio en la oficina de admisiones y seguir el proceso establecido.",
         "preguntas_frecuentes": [
-            {"pregunta": "¿Cuánto tiempo tarda el proceso de cambio de carrera?", "respuesta": "El proceso suele tomar de 2 a 4 meses."},
-            {"pregunta": "¿Puedo cambiar de carrera después de la fecha límite?", "respuesta": "Se aceptan solicitudes tardías en casos excepcionales, sujeto a aprobación."}
+            {
+                "pregunta": "¿Cuánto tiempo tarda el proceso de cambio de carrera?",
+                "respuesta": "El proceso suele tomar de 2 a 4 meses."
+            },
+            {
+                "pregunta": "¿Puedo cambiar de carrera después de la fecha límite?",
+                "respuesta": "Se aceptan solicitudes tardías en casos excepcionales, sujeto a aprobación."
+            }
+        ]
+    },
+    "CARNETIZACIÓN DE APRENDICES": {
+        "documentos_requeridos": [
+            "Documento de identidad",
+            "Foto 3x4 a color y con fondo blanco"
+        ],
+        "fechas": "Durante el periodo de formación",
+        "procedimiento": "Dirigirse a la oficina de gestión o al área designada en el centro de formación con los documentos requeridos y completar el formulario de carnetización",
+        "preguntas_frecuentes": [
+            {
+                "pregunta": "¿Para qué sirve el carnet de aprendiz?",
+                "respuesta": "El carnet de aprendiz es utilizado para identificar al estudiante durante su periodo de formación y para acceder a beneficios dentro del SENA."
+            },
+            {
+                "pregunta": "¿Hay algún costo asociado a la carnetización?",
+                "respuesta": "La carnetización generalmente es gratuita para los aprendices del SENA."
+            }
+        ]
+    },
+    "OBTENCIÓN DE CERTIFICADOS": {
+        "documentos_requeridos": [
+            "Documento de identidad"
+        ],
+        "fechas": "Según programación de entrega de certificados",
+        "procedimiento": "Solicitar el certificado en línea a través del portal del SENA o en persona en el centro de formación correspondiente, presentando el documento de identidad y el código del programa.",
+        "preguntas_frecuentes": [
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en obtener un certificado?",
+                "respuesta": "El tiempo de entrega puede variar según el tipo de certificado y el proceso interno del SENA, pero generalmente es inmediato "
+            },
+            {
+                "pregunta": "¿Cómo puedo verificar la autenticidad de un certificado emitido por el SENA?",
+                "respuesta": "Los certificados emitidos por el SENA pueden ser verificados a través del portal web oficial de la institución."
+            }
+        ]
+    },
+    "SOLICITUD DE ESPACIO EN EL PARQUEADERO": {
+        "documentos_requeridos": [
+            "Documento de identidad",
+            "Carnet de aprendiz",
+            "Documentos del vehículo (Tarjeta de propiedad, SOAT, Revisión técnico-mecánica)"
+        ],
+        "fechas": "Durante el periodo de formación",
+        "procedimiento": "Dirigirse a la oficina de administración o al área designada en el centro de formación para solicitar el espacio en el parqueadero, presentando los documentos junto con una fotocopia de cada uno. Luego llevar el papel de la solicitud al área de parqueadero para que le asignen el espacio correspondiente",
+        "preguntas_frecuentes": [
+            {
+                "pregunta": "¿Hay algún costo asociado a la solicitud de espacio en el parqueadero?",
+                "respuesta": "No hay costo alguno, este servicio es totalmente gratuito para la comunidad educativa del SENA."
+            },
+            {
+                "pregunta": "¿Cómo se asignan los espacios en el parqueadero?",
+                "respuesta": "Los espacios en el parqueadero pueden asignarse según disponibilidad y criterios establecidos por el SENA, como la ubicación y la modalidad de formación."
+            }
+        ]
+    },
+    "INSCRIPCIÓN EN OFERTAS DE EMPLEO (APE)": {
+        "documentos_requeridos": [
+            "Hoja de vida actualizada"
+        ],
+        "fechas": "Disponible todo el año",
+        "procedimiento": "Registrar y actualizar la hoja de vida en línea a través del portal de la Agencia Pública de Empleo (APE) del SENA. Donde se solicitarán datos de estudios y experiencia laboral. Posteriormente, podrá postularse a las ofertas de empleo que le sean de interés.",
+        "preguntas_frecuentes": [
+            {
+                "pregunta": "¿Quiénes pueden inscribirse en las ofertas de empleo del APE?",
+                "respuesta": "Las ofertas de empleo del APE están disponibles para personas que buscan empleo en Colombia, incluyendo aprendices y egresados del SENA."
+            },
+            {
+                "pregunta": "¿Qué tipo de empleos se pueden encontrar en el APE?",
+                "respuesta": "El APE ofrece una variedad de empleos en diferentes sectores y niveles de experiencia, desde prácticas profesionales hasta empleos de tiempo completo."
+            }
+        ]
+    },
+    "INSCRIPCIÓN A DEPORTES": {
+        "documentos_requeridos": [
+            "Documento de identidad",
+            "Certificado médico",
+            "Autorización de los padres o acudientes (en caso de menores de edad)"
+        ],
+        "fechas": "Varían según la programación de actividades deportivas",
+        "procedimiento": "Completar el formulario de inscripción en línea o hablar con la persona en el área designada para actividades deportivas en el centro de formación correspondiente.",
+        "preguntas_frecuentes": [
+            {
+                "pregunta": "¿Cuáles son los deportes disponibles para la inscripción?",
+                "respuesta": "Los deportes disponibles pueden variar según el centro de formación y la programación vigente, pero pueden incluir fútbol, baloncesto, voleibol, entre otros."
+            },
+            {
+                "pregunta": "¿Hay algún costo asociado a la inscripción a deportes?",
+                "respuesta": "La participación en actividades deportivas dentro del SENA generalmente es gratuita para los aprendices."
+            }
+        ]
+    },
+    "PRÉSTAMO DE LIBROS": {
+        "documentos_requeridos": [
+            "Documento de identidad",
+            "Carnet de aprendiz"
+        ],
+        "fechas": "Durante el periodo de formación",
+        "procedimiento": "Dirigirse a la biblioteca del centro de formación correspondiente y completar el formulario de solicitud de préstamo. Presentar los documentos y firmar el libro de registro anotando la fecha de entrega.",
+        "preguntas_frecuentes": [
+            {
+                "pregunta": "¿Qué tipo de libros se pueden solicitar en préstamo?",
+                "respuesta": "Se pueden solicitar en préstamo libros de diferentes temas y géneros, incluyendo materiales de estudio relacionados con los programas de formación del SENA."
+            },
+            {
+                "pregunta": "¿Cuál es la duración del préstamo?",
+                "respuesta": "La duración del préstamo puede variar según las políticas de la biblioteca y la demanda del material, pero generalmente se establece un período determinado, renovable si no hay solicitudes de otros usuarios."
+            }
         ]
     }
 }
