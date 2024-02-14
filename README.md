@@ -57,7 +57,7 @@ git clone https://github.com/Cristian1503V/GeniusAI_Bot.git
 - Ingresa a [Discord Developer](https://discord.com/developers/applications) para crear y configurar el bot.
 - En la sección de `Applications`, selecciona `New Application`.
 - Asigna un nombre a tu Bot 🤖, por ejemplo, **GeniusAI**, y acepta los términos y condiciones de Discord.
-- Al crear tu bot, encontrarás una clave🔑 `DISCORD_CLIENT_ID` importante llamada `APPLICATION ID`. Cópiala en el bloc de notas.
+- Al crear tu bot, encontrarás una clave🔑 `DISCORD_CLIENT_ID` muy importante. Llamada `APPLICATION ID`. Cópiala en el bloc de notas.
 
 ##### 5.2
 
